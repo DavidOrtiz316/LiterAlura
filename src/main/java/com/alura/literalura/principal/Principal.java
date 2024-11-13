@@ -31,10 +31,6 @@ public class Principal {
     }
 
     public void muestraElMenu(){
-        //var json = consumoAPI.obtenerDatos(URL_BASE);
-        //System.out.println(json);
-        //var datos = conversor.obtenerDatos(json, Datos.class);
-        //System.out.println(datos);
         var opcion = -1;
         while (opcion != 0 ){
             var menu = """
