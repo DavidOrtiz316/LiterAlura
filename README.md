@@ -8,15 +8,15 @@ Aplicación de consola en Java utilizando spring boot y postgres la cual es un c
 2. Spring Data JPA
 3. PostgreSQL
 4. Métodos como getters,setters y toString()
-5. Declaraciones y asignaciones
-6. Estructuras de control interactiva (Bucle)
-7. Arreglos
-8. implementación interface CommandLineRunner y su metodo run()
-9. Estructura de control: condicional
-10. Clase Scanner 
-11. Delived queries
-12. inyección de dependencias 
-13. Lambdas y streams
+5. Lamdas y streams
+6. Declaraciones y asignaciones
+7. Estructuras de control interactiva (Bucle)
+8. Arreglos
+9. implementación interface CommandLineRunner y su metodo run()
+10. Estructura de control: condicional
+11. Clase Scanner 
+12. Delived queries
+13. inyección de dependencias 
 
 ## Funcionalidades
 
