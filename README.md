@@ -1,6 +1,6 @@
 # LiterAlura
 
-Es una aplicación de consola en Java utilizando spring boot y postgres la cual es un catalogo de libros en la cual el usuario puede registrar libros en una base de datos y recibir información sobre libros que estén registrados en la base de datos
+Aplicación de consola en Java utilizando spring boot y postgres la cual es un catalogo de libros en la cual el usuario puede registrar libros en una base de datos y recibir información sobre libros que estén registrados en la base de datos
 
 ## Herramientas utilizadas
 
